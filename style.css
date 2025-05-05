@@ -1,0 +1,13 @@
+.primary-color {
+    color: rgb(22, 95, 42)
+}
+
+.cus-btn-quote {
+    color: rgb(22, 95, 42);
+    background-color: rgb(64, 206, 102);
+    padding: 10px 25px;
+}
+
+.cus-navbar {
+    background-color: lightgray;
+}

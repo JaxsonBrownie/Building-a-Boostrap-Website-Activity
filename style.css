@@ -11,3 +11,10 @@
 .cus-navbar {
     background-color: lightgray;
 }
+
+.cus-insurance-card {
+    width: 200px;
+    height: 70px;
+    background-color: white;
+    border-radius: 5px;
+}

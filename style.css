@@ -53,3 +53,13 @@
 .cus-link-dark:hover {
     color: rgb(36, 49, 32);
 }
+
+.cus-bg-thumbnail {
+    background-image: url("images/nib-image3.jpg");
+}
+
+.cus-overlapping-card {
+    max-width: 700px;
+    position: relative;
+    padding: 10px
+}
